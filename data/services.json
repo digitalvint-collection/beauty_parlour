@@ -1,0 +1,69 @@
+[
+  {
+    "id": "bridal",
+    "name": "Bridal Package",
+    "description": "Complete wedding day makeup for bride including trial session",
+    "price": "$350",
+    "duration": "3 hours",
+    "icon": "bridal",
+    "featured": true,
+    "includes": [
+      "2-hour bridal trial session",
+      "Premium HD makeup application",
+      "False lash application",
+      "Touch-up kit for wedding day",
+      "On-site service on wedding day"
+    ],
+    "addOns": ["Airbrush Makeup (+$75)", "Mother of Bride/Groom (+$125)", "Bridal Party Members (+$150 each)"]
+  },
+  {
+    "id": "trial",
+    "name": "Bridal Trial",
+    "description": "Design and perfect your wedding day look",
+    "price": "$175",
+    "duration": "2 hours",
+    "icon": "trial",
+    "featured": false,
+    "includes": [
+      "Personalized consultation",
+      "Full makeup application",
+      "Product recommendations",
+      "Photo review session",
+      "Look documentation for wedding day"
+    ],
+    "addOns": ["Hair Styling Consultation (+$50)"]
+  },
+  {
+    "id": "event",
+    "name": "Special Event",
+    "description": "Red carpet ready makeup for galas, photoshoots, and celebrations",
+    "price": "$225",
+    "duration": "1.5 hours",
+    "icon": "event",
+    "featured": false,
+    "includes": [
+      "Custom makeup design",
+      "Premium product application",
+      "False lashes included",
+      "Setting spray for longevity",
+      "Touch-up kit"
+    ],
+    "addOns": ["Airbrush Makeup (+$50)", "On-location service (+$75)"]
+  },
+  {
+    "id": "express",
+    "name": "Express Makeup",
+    "description": "Quick professional makeup for meetings or events",
+    "price": "$125",
+    "duration": "45 minutes",
+    "icon": "event",
+    "featured": false,
+    "includes": [
+      "Natural enhancement makeup",
+      "Lash application",
+      "Setting spray",
+      "Quick touch-up tutorial"
+    ],
+    "addOns": ["False Lashes (+$25)"]
+  }
+]
